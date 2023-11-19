@@ -1,0 +1,7 @@
+[package]
+name = "article"
+version = "0.0.1"
+entrypoint = "article.typ"
+authors = ["Jaap Geurts"]
+license = "MIT"
+description = "A package for standard scientific articles like LaTeX document class article."
